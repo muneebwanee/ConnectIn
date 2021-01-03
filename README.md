@@ -67,7 +67,7 @@ Please, try to follow:
 * `$exit` enter, And Open Termux Again
 * `$npm install`
 * `$npm install -g ConnectIn`
-* `$lac -u <enter_your_linkedin_email>` **Remove Brackets.** And then it will ask for password, The enter Your LinkedIn Password (will not be shown their), Then Enter
+* `$lac -u <enter_your_linkedin_email>` **Remove Brackets.** And then it will ask for password, Then enter Your LinkedIn Password (will not be shown their), Then Enter
 
 ## Example
 
