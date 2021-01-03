@@ -72,8 +72,8 @@ Please, try to follow:
 ## Example
 
 <h1 align="center"> 
-    <img src="https://1.bp.blogspot.com/-Qfw-4aEOMvg/X_FRC-GOOaI/AAAAAAAAA8s/qpuf98i9EHs-nu21p2mbg5Jb9xCpgUsEQCLcBGAsYHQ/s2048/ConnectIn.jpg" alt="WinRAT" /> <br>    
-    WinRAT
+    <img src="https://1.bp.blogspot.com/-Qfw-4aEOMvg/X_FRC-GOOaI/AAAAAAAAA8s/qpuf98i9EHs-nu21p2mbg5Jb9xCpgUsEQCLcBGAsYHQ/s2048/ConnectIn.jpg" alt="ConnectIn" /> <br>    
+    ConnectIn
 </h1>
 
 #### >``Hence Done``
